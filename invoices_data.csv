@@ -1,0 +1,5 @@
+invoice_id,created_on,invoiceitem_id,invoiceitem_name,type,unit_price,total_price,percentage_in_invoice,is_expired
+377960,2019-02-22,123242,ii_123242,Equipment,110,550,1.0,True
+377960,2019-02-22,144902,ii_144902,Service,188,1316,0.3941299790356394,True
+377960,2019-02-22,196386,ii_196386,Other,150,900,0.6206896551724138,True
+377960,2019-02-22,196707,ii_196707,Service,191,573,0.2832427088482452,True
